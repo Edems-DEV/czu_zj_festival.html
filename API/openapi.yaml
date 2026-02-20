@@ -1,0 +1,334 @@
+openapi: 3.1.0
+info:
+  title: Festival Aurora API
+  version: 1.0.0
+  description: GET-only API for the fictional music festival Aurora.
+servers:
+  - url: https://example.com
+paths:
+  /api/festival:
+    get:
+      summary: Festival identity and overview
+      responses:
+        '200':
+          description: Festival payload
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Festival'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '404':
+          description: Not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /api/venues:
+    get:
+      summary: List of venues
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: integer
+            minimum: 1
+            default: 1
+        - in: query
+          name: pageSize
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 20
+      responses:
+        '200':
+          description: Venue list
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/VenueList'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '404':
+          description: Not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /api/venues/{id}:
+    get:
+      summary: Venue detail
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Venue detail
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Venue'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '404':
+          description: Not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /api/performers:
+    get:
+      summary: List of performers
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: integer
+            minimum: 1
+            default: 1
+        - in: query
+          name: pageSize
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 20
+      responses:
+        '200':
+          description: Performer list
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PerformerList'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '404':
+          description: Not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /api/performers/{id}:
+    get:
+      summary: Performer detail
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Performer detail
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Performer'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '404':
+          description: Not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /api/events:
+    get:
+      summary: Event list with filtering
+      parameters:
+        - in: query
+          name: day
+          schema:
+            type: string
+            format: date
+        - in: query
+          name: venueId
+          schema:
+            type: string
+        - in: query
+          name: performerId
+          schema:
+            type: string
+        - in: query
+          name: page
+          schema:
+            type: integer
+            minimum: 1
+            default: 1
+        - in: query
+          name: pageSize
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 20
+      responses:
+        '200':
+          description: Event list
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/EventList'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '404':
+          description: Not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /api/events/{id}:
+    get:
+      summary: Event detail
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Event detail
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Event'
+        '400':
+          description: Bad request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '404':
+          description: Not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+components:
+  schemas:
+    Error:
+      type: object
+      properties:
+        code:
+          type: string
+        message:
+          type: string
+      required: [code, message]
+    Festival:
+      type: object
+      properties:
+        id: { type: string }
+        name: { type: string }
+        edition: { type: integer }
+        city: { type: string }
+        startDate: { type: string, format: date }
+        endDate: { type: string, format: date }
+        description: { type: string }
+        tickets:
+          type: array
+          items:
+            type: object
+            properties:
+              type: { type: string }
+              price: { type: integer }
+            required: [type, price]
+        links:
+          type: object
+          properties:
+            web: { type: string, format: uri }
+            instagram: { type: string, format: uri }
+          required: [web, instagram]
+      required: [id, name, edition, city, startDate, endDate, description, tickets, links]
+    Venue:
+      type: object
+      properties:
+        id: { type: string }
+        name: { type: string }
+        city: { type: string }
+        address: { type: string }
+        capacity: { type: integer }
+      required: [id, name, city, address, capacity]
+    VenueList:
+      type: object
+      properties:
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/Venue'
+        page: { type: integer }
+        pageSize: { type: integer }
+        totalItems: { type: integer }
+      required: [items, page, pageSize, totalItems]
+    Performer:
+      type: object
+      properties:
+        id: { type: string }
+        name: { type: string }
+        country: { type: string }
+        genre: { type: string }
+        bio: { type: string }
+      required: [id, name, country, genre, bio]
+    PerformerList:
+      type: object
+      properties:
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/Performer'
+        page: { type: integer }
+        pageSize: { type: integer }
+        totalItems: { type: integer }
+      required: [items, page, pageSize, totalItems]
+    Event:
+      type: object
+      properties:
+        id: { type: string }
+        title: { type: string }
+        performerId: { type: string }
+        venueId: { type: string }
+        day: { type: string, format: date }
+        startTime: { type: string, pattern: "^([01][0-9]|2[0-3]):[0-5][0-9]$" }
+        durationMin: { type: integer }
+        type: { type: string }
+        description: { type: string }
+      required: [id, title, performerId, venueId, day, startTime, durationMin, type, description]
+    EventList:
+      type: object
+      properties:
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/Event'
+        page: { type: integer }
+        pageSize: { type: integer }
+        totalItems: { type: integer }
+      required: [items, page, pageSize, totalItems]

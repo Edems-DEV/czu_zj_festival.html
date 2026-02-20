@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["id", "name", "country", "genre", "bio"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "country": { "type": "string", "minLength": 2, "maxLength": 2 },
+    "genre": { "type": "string" },
+    "bio": { "type": "string" }
+  }
+}

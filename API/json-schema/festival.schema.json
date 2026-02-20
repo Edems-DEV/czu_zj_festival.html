@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "edition",
+    "city",
+    "startDate",
+    "endDate",
+    "description",
+    "tickets",
+    "links"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "edition": { "type": "integer" },
+    "city": { "type": "string" },
+    "startDate": { "type": "string", "format": "date" },
+    "endDate": { "type": "string", "format": "date" },
+    "description": { "type": "string" },
+    "tickets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "price"],
+        "properties": {
+          "type": { "type": "string" },
+          "price": { "type": "integer" }
+        }
+      }
+    },
+    "links": {
+      "type": "object",
+      "required": ["web", "instagram"],
+      "properties": {
+        "web": { "type": "string", "format": "uri" },
+        "instagram": { "type": "string", "format": "uri" }
+      }
+    }
+  }
+}

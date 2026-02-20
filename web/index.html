@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hudební Festival Aurora 2026 | Úvod</title>
+    <meta
+      name="description"
+      content="Fiktivní třídenní hudební festival Aurora v Praze. Program, účinkující a praktické informace."
+    />
+    <meta property="og:title" content="Hudební Festival Aurora 2026" />
+    <meta
+      property="og:description"
+      content="Koncerty, talks a workshopy na dvou scénách během tří dnů."
+    />
+    <meta property="og:image" content="https://picsum.photos/1200/630" />
+    <link rel="stylesheet" href="style.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Festival",
+        "name": "Hudební Festival Aurora",
+        "startDate": "2026-08-20",
+        "endDate": "2026-08-22",
+        "location": {
+          "@type": "Place",
+          "name": "Výstaviště Praha 7",
+          "address": "Výstaviště 1, Praha 7"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <header>
+      <h1>Hudební Festival Aurora 2026</h1>
+      <nav aria-label="Hlavní navigace">
+        <ul>
+          <li><a href="index.html">Úvod</a></li>
+          <li><a href="program.html">Program</a></li>
+          <li><a href="performers.html">Účinkující</a></li>
+          <li><a href="practical-info.html">Praktické informace</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section>
+        <h2>O festivalu</h2>
+        <p>
+          Aurora je fiktivní multi-žánrový hudební festival propojující
+          koncerty, talks a workshopy.
+        </p>
+        <img
+          src="https://picsum.photos/900/300"
+          alt="Ilustrační fotografie festivalového publika"
+        />
+      </section>
+
+      <section>
+        <h2>Termín a místo</h2>
+        <p>
+          Festival probíhá od <time datetime="2026-08-20">20. 8. 2026</time> do
+          <time datetime="2026-08-22">22. 8. 2026</time>.
+        </p>
+        <address>Výstaviště Praha 7, Výstaviště 1, Praha 7</address>
+      </section>
+
+      <section>
+        <h2>Napojení na API</h2>
+        <article>
+          <h3>Přehled dat</h3>
+          <p>
+            Zdrojové endpointy:
+            <a href="../API/json/festival.json">festival</a>,
+            <a href="../API/json/events.json">events</a>,
+            <a href="../API/json/performers.json">performers</a>.
+          </p>
+        </article>
+        <article>
+          <h3>OpenAPI specifikace</h3>
+          <p>
+            Popis endpointů je v souboru
+            <a href="../API/openapi.yaml">openapi.yaml</a>.
+          </p>
+        </article>
+        <article>
+          <h3>Datový model</h3>
+          <p>
+            XML data a validace jsou dostupné v
+            <a href="../data/festival.xml">festival.xml</a> a
+            <a href="../data/festival.xsd">festival.xsd</a>.
+          </p>
+        </article>
+      </section>
+
+      <aside>
+        <p>Vstupenky: jednodenní 890 Kč, celofestivalová 2190 Kč.</p>
+      </aside>
+    </main>
+
+    <footer>
+      <p>&copy; 2026 Hudební Festival Aurora</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+﻿{
+    "id":  "e1",
+    "title":  "Set Interpret 1",
+    "performerId":  "p1",
+    "venueId":  "v1",
+    "day":  "2026-08-20",
+    "startTime":  "10:00",
+    "durationMin":  60,
+    "type":  "concert",
+    "description":  "Zivy koncert interpreta 1."
+}

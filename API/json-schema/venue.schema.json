@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["id", "name", "city", "address", "capacity"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "city": { "type": "string" },
+    "address": { "type": "string" },
+    "capacity": { "type": "integer", "minimum": 100 }
+  }
+}

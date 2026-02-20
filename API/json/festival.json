@@ -1,0 +1,23 @@
+﻿{
+    "id":  "fest2026",
+    "name":  "Hudebni Festival Aurora",
+    "edition":  1,
+    "city":  "Praha",
+    "startDate":  "2026-08-20",
+    "endDate":  "2026-08-22",
+    "description":  "Tridenni fiktivni hudebni festival kombinujici koncerty, talks a workshopy.",
+    "tickets":  [
+                    {
+                        "type":  "day",
+                        "price":  890
+                    },
+                    {
+                        "type":  "full",
+                        "price":  2190
+                    }
+                ],
+    "links":  {
+                  "web":  "https://example.com/aurora",
+                  "instagram":  "https://instagram.com/aurora_festival"
+              }
+}
