@@ -34,15 +34,14 @@
 
     <main>
       <section>
-        <h2>Interpret 1</h2>
+        <h2 id="performer-name">Interpret 1</h2>
         <article>
           <h3>Základní profil</h3>
-          <p>Žánr: Indie | Země: CZ</p>
-          <p>Interpret 1 přiváží energický set pro večerní program.</p>
+          <p id="performer-profile">Žánr: electronic | Země: CZ</p>
         </article>
         <article>
           <h3>Nejbližší vystoupení</h3>
-          <p>
+          <p id="performer-next-event">
             <time datetime="2026-08-20T10:00">20. 8. 2026 v 10:00</time> na
             Hlavní stage.
           </p>
@@ -50,13 +49,15 @@
       </section>
 
       <section>
-        <h2>Datové zdroje</h2>
-        <ul>
+        <h2>Program interpreta</h2>
+        <ul id="performer-events">
           <li>
-            <a href="../API/json/performer-e1.json">/api/performers/p1</a>
+            <time datetime="2026-08-20T10:00">20. 8. 2026 10:00</time> – Set
+            Interpret 1 (Hlavní stage)
           </li>
           <li>
-            <a href="../API/json/events.json">/api/events?performerId=p1</a>
+            <time datetime="2026-08-21T18:30">21. 8. 2026 18:30</time> – Evening
+            Live (Klub stage)
           </li>
         </ul>
       </section>
