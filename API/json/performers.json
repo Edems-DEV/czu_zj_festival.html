@@ -1,427 +1,427 @@
-﻿{
-    "items":  [
-                  {
-                      "id":  "p1",
-                      "name":  "Lunar Tides",
-                      "country":  "CZ",
-                      "genre":  "Indie",
-                      "bio":  "Lunar Tides patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p2",
-                      "name":  "Neon Harbor",
-                      "country":  "SK",
-                      "genre":  "Elektronika",
-                      "bio":  "Neon Harbor patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p3",
-                      "name":  "The Velvet Signals",
-                      "country":  "PL",
-                      "genre":  "Rock",
-                      "bio":  "The Velvet Signals patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p4",
-                      "name":  "Echo Meridian",
-                      "country":  "DE",
-                      "genre":  "Jazz",
-                      "bio":  "Echo Meridian patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p5",
-                      "name":  "Solar Drift",
-                      "country":  "AT",
-                      "genre":  "Hip-Hop",
-                      "bio":  "Solar Drift patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p6",
-                      "name":  "Midnight Cartel",
-                      "country":  "HU",
-                      "genre":  "World",
-                      "bio":  "Midnight Cartel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p7",
-                      "name":  "Aurora Bloom",
-                      "country":  "FR",
-                      "genre":  "Indie",
-                      "bio":  "Aurora Bloom patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p8",
-                      "name":  "Static Avenue",
-                      "country":  "SE",
-                      "genre":  "Elektronika",
-                      "bio":  "Static Avenue patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p9",
-                      "name":  "Riverline Collective",
-                      "country":  "NO",
-                      "genre":  "Rock",
-                      "bio":  "Riverline Collective patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p10",
-                      "name":  "Atlas Bloom",
-                      "country":  "NL",
-                      "genre":  "Jazz",
-                      "bio":  "Atlas Bloom patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p11",
-                      "name":  "Velvet Circuit",
-                      "country":  "IT",
-                      "genre":  "Hip-Hop",
-                      "bio":  "Velvet Circuit patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p12",
-                      "name":  "Nova Parade",
-                      "country":  "ES",
-                      "genre":  "World",
-                      "bio":  "Nova Parade patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p13",
-                      "name":  "Paper Lanterns",
-                      "country":  "GB",
-                      "genre":  "Indie",
-                      "bio":  "Paper Lanterns patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p14",
-                      "name":  "Northbound Echo",
-                      "country":  "US",
-                      "genre":  "Elektronika",
-                      "bio":  "Northbound Echo patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p15",
-                      "name":  "Crystal District",
-                      "country":  "CA",
-                      "genre":  "Rock",
-                      "bio":  "Crystal District patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p16",
-                      "name":  "Urban Comets",
-                      "country":  "DK",
-                      "genre":  "Jazz",
-                      "bio":  "Urban Comets patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p17",
-                      "name":  "Polar Gardens",
-                      "country":  "CZ",
-                      "genre":  "Hip-Hop",
-                      "bio":  "Polar Gardens patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p18",
-                      "name":  "Skyline Ritual",
-                      "country":  "SK",
-                      "genre":  "World",
-                      "bio":  "Skyline Ritual patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p19",
-                      "name":  "Motel Magnolia",
-                      "country":  "PL",
-                      "genre":  "Indie",
-                      "bio":  "Motel Magnolia patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p20",
-                      "name":  "Brass Horizon",
-                      "country":  "DE",
-                      "genre":  "Elektronika",
-                      "bio":  "Brass Horizon patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p21",
-                      "name":  "Dusty Satellites",
-                      "country":  "AT",
-                      "genre":  "Rock",
-                      "bio":  "Dusty Satellites patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p22",
-                      "name":  "Ivory Transit",
-                      "country":  "HU",
-                      "genre":  "Jazz",
-                      "bio":  "Ivory Transit patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p23",
-                      "name":  "Stereo Orchard",
-                      "country":  "FR",
-                      "genre":  "Hip-Hop",
-                      "bio":  "Stereo Orchard patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p24",
-                      "name":  "Dune Society",
-                      "country":  "SE",
-                      "genre":  "World",
-                      "bio":  "Dune Society patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p25",
-                      "name":  "Baltic Frequency",
-                      "country":  "NO",
-                      "genre":  "Indie",
-                      "bio":  "Baltic Frequency patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p26",
-                      "name":  "Canyon Motel",
-                      "country":  "NL",
-                      "genre":  "Elektronika",
-                      "bio":  "Canyon Motel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p27",
-                      "name":  "Silent Arcade",
-                      "country":  "IT",
-                      "genre":  "Rock",
-                      "bio":  "Silent Arcade patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p28",
-                      "name":  "Mosaic Avenue",
-                      "country":  "ES",
-                      "genre":  "Jazz",
-                      "bio":  "Mosaic Avenue patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p29",
-                      "name":  "Amber Transit",
-                      "country":  "GB",
-                      "genre":  "Hip-Hop",
-                      "bio":  "Amber Transit patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p30",
-                      "name":  "City of Pines",
-                      "country":  "US",
-                      "genre":  "World",
-                      "bio":  "City of Pines patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p31",
-                      "name":  "Westend Choir",
-                      "country":  "CA",
-                      "genre":  "Indie",
-                      "bio":  "Westend Choir patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p32",
-                      "name":  "Broken Compass",
-                      "country":  "DK",
-                      "genre":  "Elektronika",
-                      "bio":  "Broken Compass patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p33",
-                      "name":  "Ocean Motel",
-                      "country":  "CZ",
-                      "genre":  "Rock",
-                      "bio":  "Ocean Motel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p34",
-                      "name":  "Lowlight Theory",
-                      "country":  "SK",
-                      "genre":  "Jazz",
-                      "bio":  "Lowlight Theory patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p35",
-                      "name":  "Honey Current",
-                      "country":  "PL",
-                      "genre":  "Hip-Hop",
-                      "bio":  "Honey Current patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p36",
-                      "name":  "Velvet Monsoon",
-                      "country":  "DE",
-                      "genre":  "World",
-                      "bio":  "Velvet Monsoon patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p37",
-                      "name":  "Morning Static",
-                      "country":  "AT",
-                      "genre":  "Indie",
-                      "bio":  "Morning Static patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p38",
-                      "name":  "Asphalt Bloom",
-                      "country":  "HU",
-                      "genre":  "Elektronika",
-                      "bio":  "Asphalt Bloom patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p39",
-                      "name":  "Golden Vacancy",
-                      "country":  "FR",
-                      "genre":  "Rock",
-                      "bio":  "Golden Vacancy patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p40",
-                      "name":  "Nightshift Flora",
-                      "country":  "SE",
-                      "genre":  "Jazz",
-                      "bio":  "Nightshift Flora patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p41",
-                      "name":  "Rain Motel",
-                      "country":  "NO",
-                      "genre":  "Hip-Hop",
-                      "bio":  "Rain Motel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p42",
-                      "name":  "Parallel Kids",
-                      "country":  "NL",
-                      "genre":  "World",
-                      "bio":  "Parallel Kids patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p43",
-                      "name":  "Ribbon Atlas",
-                      "country":  "IT",
-                      "genre":  "Indie",
-                      "bio":  "Ribbon Atlas patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p44",
-                      "name":  "Neon Caravan",
-                      "country":  "ES",
-                      "genre":  "Elektronika",
-                      "bio":  "Neon Caravan patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p45",
-                      "name":  "Silver District",
-                      "country":  "GB",
-                      "genre":  "Rock",
-                      "bio":  "Silver District patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p46",
-                      "name":  "Northern Lantern",
-                      "country":  "US",
-                      "genre":  "Jazz",
-                      "bio":  "Northern Lantern patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p47",
-                      "name":  "Harbor Choir",
-                      "country":  "CA",
-                      "genre":  "Hip-Hop",
-                      "bio":  "Harbor Choir patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p48",
-                      "name":  "Skyline Mosaic",
-                      "country":  "DK",
-                      "genre":  "World",
-                      "bio":  "Skyline Mosaic patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p49",
-                      "name":  "Sunroom Cartel",
-                      "country":  "CZ",
-                      "genre":  "Indie",
-                      "bio":  "Sunroom Cartel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p50",
-                      "name":  "Harborline Echo",
-                      "country":  "SK",
-                      "genre":  "Elektronika",
-                      "bio":  "Harborline Echo patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p51",
-                      "name":  "Lunar District",
-                      "country":  "PL",
-                      "genre":  "Rock",
-                      "bio":  "Lunar District patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p52",
-                      "name":  "Echo Harbor",
-                      "country":  "DE",
-                      "genre":  "Jazz",
-                      "bio":  "Echo Harbor patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p53",
-                      "name":  "Magnet Fields",
-                      "country":  "AT",
-                      "genre":  "Hip-Hop",
-                      "bio":  "Magnet Fields patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p54",
-                      "name":  "Pine Motel",
-                      "country":  "HU",
-                      "genre":  "World",
-                      "bio":  "Pine Motel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p55",
-                      "name":  "Atlas Avenue",
-                      "country":  "FR",
-                      "genre":  "Indie",
-                      "bio":  "Atlas Avenue patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p56",
-                      "name":  "River Motel",
-                      "country":  "SE",
-                      "genre":  "Elektronika",
-                      "bio":  "River Motel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p57",
-                      "name":  "Metro Aurora",
-                      "country":  "NO",
-                      "genre":  "Rock",
-                      "bio":  "Metro Aurora patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p58",
-                      "name":  "Velvet Atlantic",
-                      "country":  "NL",
-                      "genre":  "Jazz",
-                      "bio":  "Velvet Atlantic patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p59",
-                      "name":  "Coastal Transit",
-                      "country":  "IT",
-                      "genre":  "Hip-Hop",
-                      "bio":  "Coastal Transit patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  },
-                  {
-                      "id":  "p60",
-                      "name":  "Prairie Signals",
-                      "country":  "ES",
-                      "genre":  "World",
-                      "bio":  "Prairie Signals patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
-                  }
-              ],
-    "page":  1,
-    "pageSize":  60,
-    "totalItems":  60
+{
+  "items": [
+    {
+      "id": "p1",
+      "name": "Lunar Tides",
+      "country": "CZ",
+      "genre": "Indie",
+      "bio": "Lunar Tides patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p2",
+      "name": "Neon Harbor",
+      "country": "SK",
+      "genre": "Elektronika",
+      "bio": "Neon Harbor patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p3",
+      "name": "The Velvet Signals",
+      "country": "PL",
+      "genre": "Rock",
+      "bio": "The Velvet Signals patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p4",
+      "name": "Echo Meridian",
+      "country": "DE",
+      "genre": "Jazz",
+      "bio": "Echo Meridian patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p5",
+      "name": "Solar Drift",
+      "country": "AT",
+      "genre": "Hip-Hop",
+      "bio": "Solar Drift patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p6",
+      "name": "Midnight Cartel",
+      "country": "HU",
+      "genre": "World",
+      "bio": "Midnight Cartel patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p7",
+      "name": "Aurora Bloom",
+      "country": "FR",
+      "genre": "Indie",
+      "bio": "Aurora Bloom patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p8",
+      "name": "Static Avenue",
+      "country": "SE",
+      "genre": "Elektronika",
+      "bio": "Static Avenue patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p9",
+      "name": "Riverline Collective",
+      "country": "NO",
+      "genre": "Rock",
+      "bio": "Riverline Collective patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p10",
+      "name": "Atlas Bloom",
+      "country": "NL",
+      "genre": "Jazz",
+      "bio": "Atlas Bloom patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p11",
+      "name": "Velvet Circuit",
+      "country": "IT",
+      "genre": "Hip-Hop",
+      "bio": "Velvet Circuit patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p12",
+      "name": "Nova Parade",
+      "country": "ES",
+      "genre": "World",
+      "bio": "Nova Parade patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p13",
+      "name": "Paper Lanterns",
+      "country": "GB",
+      "genre": "Indie",
+      "bio": "Paper Lanterns patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p14",
+      "name": "Northbound Echo",
+      "country": "US",
+      "genre": "Elektronika",
+      "bio": "Northbound Echo patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p15",
+      "name": "Crystal District",
+      "country": "CA",
+      "genre": "Rock",
+      "bio": "Crystal District patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p16",
+      "name": "Urban Comets",
+      "country": "DK",
+      "genre": "Jazz",
+      "bio": "Urban Comets patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p17",
+      "name": "Polar Gardens",
+      "country": "CZ",
+      "genre": "Hip-Hop",
+      "bio": "Polar Gardens patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p18",
+      "name": "Skyline Ritual",
+      "country": "SK",
+      "genre": "World",
+      "bio": "Skyline Ritual patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p19",
+      "name": "Motel Magnolia",
+      "country": "PL",
+      "genre": "Indie",
+      "bio": "Motel Magnolia patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p20",
+      "name": "Brass Horizon",
+      "country": "DE",
+      "genre": "Elektronika",
+      "bio": "Brass Horizon patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p21",
+      "name": "Dusty Satellites",
+      "country": "AT",
+      "genre": "Rock",
+      "bio": "Dusty Satellites patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p22",
+      "name": "Ivory Transit",
+      "country": "HU",
+      "genre": "Jazz",
+      "bio": "Ivory Transit patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p23",
+      "name": "Stereo Orchard",
+      "country": "FR",
+      "genre": "Hip-Hop",
+      "bio": "Stereo Orchard patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p24",
+      "name": "Dune Society",
+      "country": "SE",
+      "genre": "World",
+      "bio": "Dune Society patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p25",
+      "name": "Baltic Frequency",
+      "country": "NO",
+      "genre": "Indie",
+      "bio": "Baltic Frequency patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p26",
+      "name": "Canyon Motel",
+      "country": "NL",
+      "genre": "Elektronika",
+      "bio": "Canyon Motel patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p27",
+      "name": "Silent Arcade",
+      "country": "IT",
+      "genre": "Rock",
+      "bio": "Silent Arcade patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p28",
+      "name": "Mosaic Avenue",
+      "country": "ES",
+      "genre": "Jazz",
+      "bio": "Mosaic Avenue patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p29",
+      "name": "Amber Transit",
+      "country": "GB",
+      "genre": "Hip-Hop",
+      "bio": "Amber Transit patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p30",
+      "name": "City of Pines",
+      "country": "US",
+      "genre": "World",
+      "bio": "City of Pines patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p31",
+      "name": "Westend Choir",
+      "country": "CA",
+      "genre": "Indie",
+      "bio": "Westend Choir patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p32",
+      "name": "Broken Compass",
+      "country": "DK",
+      "genre": "Elektronika",
+      "bio": "Broken Compass patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p33",
+      "name": "Ocean Motel",
+      "country": "CZ",
+      "genre": "Rock",
+      "bio": "Ocean Motel patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p34",
+      "name": "Lowlight Theory",
+      "country": "SK",
+      "genre": "Jazz",
+      "bio": "Lowlight Theory patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p35",
+      "name": "Honey Current",
+      "country": "PL",
+      "genre": "Hip-Hop",
+      "bio": "Honey Current patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p36",
+      "name": "Velvet Monsoon",
+      "country": "DE",
+      "genre": "World",
+      "bio": "Velvet Monsoon patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p37",
+      "name": "Morning Static",
+      "country": "AT",
+      "genre": "Indie",
+      "bio": "Morning Static patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p38",
+      "name": "Asphalt Bloom",
+      "country": "HU",
+      "genre": "Elektronika",
+      "bio": "Asphalt Bloom patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p39",
+      "name": "Golden Vacancy",
+      "country": "FR",
+      "genre": "Rock",
+      "bio": "Golden Vacancy patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p40",
+      "name": "Nightshift Flora",
+      "country": "SE",
+      "genre": "Jazz",
+      "bio": "Nightshift Flora patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p41",
+      "name": "Rain Motel",
+      "country": "NO",
+      "genre": "Hip-Hop",
+      "bio": "Rain Motel patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p42",
+      "name": "Parallel Kids",
+      "country": "NL",
+      "genre": "World",
+      "bio": "Parallel Kids patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p43",
+      "name": "Ribbon Atlas",
+      "country": "IT",
+      "genre": "Indie",
+      "bio": "Ribbon Atlas patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p44",
+      "name": "Neon Caravan",
+      "country": "ES",
+      "genre": "Elektronika",
+      "bio": "Neon Caravan patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p45",
+      "name": "Silver District",
+      "country": "GB",
+      "genre": "Rock",
+      "bio": "Silver District patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p46",
+      "name": "Northern Lantern",
+      "country": "US",
+      "genre": "Jazz",
+      "bio": "Northern Lantern patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p47",
+      "name": "Harbor Choir",
+      "country": "CA",
+      "genre": "Hip-Hop",
+      "bio": "Harbor Choir patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p48",
+      "name": "Skyline Mosaic",
+      "country": "DK",
+      "genre": "World",
+      "bio": "Skyline Mosaic patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p49",
+      "name": "Sunroom Cartel",
+      "country": "CZ",
+      "genre": "Indie",
+      "bio": "Sunroom Cartel patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p50",
+      "name": "Harborline Echo",
+      "country": "SK",
+      "genre": "Elektronika",
+      "bio": "Harborline Echo patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p51",
+      "name": "Lunar District",
+      "country": "PL",
+      "genre": "Rock",
+      "bio": "Lunar District patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p52",
+      "name": "Echo Harbor",
+      "country": "DE",
+      "genre": "Jazz",
+      "bio": "Echo Harbor patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p53",
+      "name": "Magnet Fields",
+      "country": "AT",
+      "genre": "Hip-Hop",
+      "bio": "Magnet Fields patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p54",
+      "name": "Pine Motel",
+      "country": "HU",
+      "genre": "World",
+      "bio": "Pine Motel patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p55",
+      "name": "Atlas Avenue",
+      "country": "FR",
+      "genre": "Indie",
+      "bio": "Atlas Avenue patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p56",
+      "name": "River Motel",
+      "country": "SE",
+      "genre": "Elektronika",
+      "bio": "River Motel patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p57",
+      "name": "Metro Aurora",
+      "country": "NO",
+      "genre": "Rock",
+      "bio": "Metro Aurora patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p58",
+      "name": "Velvet Atlantic",
+      "country": "NL",
+      "genre": "Jazz",
+      "bio": "Velvet Atlantic patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p59",
+      "name": "Coastal Transit",
+      "country": "IT",
+      "genre": "Hip-Hop",
+      "bio": "Coastal Transit patří mezi výrazná jména současné klubové a koncertní scény."
+    },
+    {
+      "id": "p60",
+      "name": "Prairie Signals",
+      "country": "ES",
+      "genre": "World",
+      "bio": "Prairie Signals patří mezi výrazná jména současné klubové a koncertní scény."
+    }
+  ],
+  "page": 1,
+  "pageSize": 60,
+  "totalItems": 60
 }

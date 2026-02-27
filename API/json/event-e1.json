@@ -1,11 +1,11 @@
-﻿{
-    "id":  "e1",
-    "title":  "Lunar Tides Live",
-    "performerId":  "p1",
-    "venueId":  "v1",
-    "day":  "2026-08-20",
-    "startTime":  "10:00",
-    "durationMin":  75,
-    "type":  "concert",
-    "description":  "KoncertnÃ­ set interpreta Lunar Tides s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
+{
+  "id": "e1",
+  "title": "Lunar Tides Live",
+  "performerId": "p1",
+  "venueId": "v1",
+  "day": "2026-08-20",
+  "startTime": "10:00",
+  "durationMin": 75,
+  "type": "concert",
+  "description": "Koncertní set interpreta Lunar Tides s průřezem aktuální tvorbou."
 }

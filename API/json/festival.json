@@ -1,27 +1,27 @@
-﻿{
-    "id":  "fest2026",
-    "name":  "HudebnÃ­ Festival Aurora",
-    "edition":  1,
-    "city":  "Praha",
-    "startDate":  "2026-08-20",
-    "endDate":  "2026-08-22",
-    "description":  "TÅ™Ã­dennÃ­ hudebnÃ­ festival propojujÃ­cÃ­ koncerty, talks a workshopy na vÃ­ce scÃ©nÃ¡ch.",
-    "tickets":  [
-                    {
-                        "type":  "day",
-                        "price":  990
-                    },
-                    {
-                        "type":  "full",
-                        "price":  2490
-                    },
-                    {
-                        "type":  "vip",
-                        "price":  4490
-                    }
-                ],
-    "links":  {
-                  "web":  "https://aurorafest.example",
-                  "instagram":  "https://instagram.com/aurorafest"
-              }
+{
+  "id": "fest2026",
+  "name": "Hudební Festival Aurora",
+  "edition": 1,
+  "city": "Praha",
+  "startDate": "2026-08-20",
+  "endDate": "2026-08-22",
+  "description": "Třídenní hudební festival propojující koncerty, talks a workshopy na více scénách.",
+  "tickets": [
+    {
+      "type": "day",
+      "price": 990
+    },
+    {
+      "type": "full",
+      "price": 2490
+    },
+    {
+      "type": "vip",
+      "price": 4490
+    }
+  ],
+  "links": {
+    "web": "https://aurorafest.example",
+    "instagram": "https://instagram.com/aurorafest"
+  }
 }

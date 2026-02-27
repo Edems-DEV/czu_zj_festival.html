@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
     <xs:simpleType name="idType">
-        <!-- custom-constraint: ID pattern with alpha prefix and numeric suffix -->
+        <!-- Vlastni omezeni: ID pattern s pismennym prefixem a ciselnym suffixem -->
         <xs:restriction base="xs:string">
             <xs:pattern value="[a-z]+[0-9]+" />
         </xs:restriction>
@@ -13,13 +13,13 @@
 
     <xs:simpleType name="timeType">
         <xs:restriction base="xs:string">
-            <!-- custom-constraint: HH:MM 24h format -->
+            <!-- Vlastni omezeni: format casu HH:MM (24h) -->
             <xs:pattern value="([01][0-9]|2[0-3]):[0-5][0-9]" />
         </xs:restriction>
     </xs:simpleType>
 
     <xs:simpleType name="genreType">
-        <!-- custom-constraint: allowed genre enum -->
+        <!-- Vlastni omezeni: povolene hodnoty zanru (enumeration) -->
         <xs:restriction base="xs:string">
             <xs:enumeration value="Indie" />
             <xs:enumeration value="Elektronika" />
@@ -31,6 +31,7 @@
     </xs:simpleType>
 
     <xs:simpleType name="eventTypeValue">
+        <!-- Vlastni omezeni: povolene hodnoty typu eventu (enumeration) -->
         <xs:restriction base="xs:string">
             <xs:enumeration value="concert" />
             <xs:enumeration value="talk" />
@@ -49,7 +50,7 @@
                                 <xs:complexType>
                                     <xs:attribute name="type" use="required" type="xs:string" />
                                     <xs:attribute name="price" use="required">
-                                        <!-- custom-constraint: ticket price range -->
+                                        <!-- Vlastni omezeni: rozsah ceny vstupenky -->
                                         <xs:simpleType>
                                             <xs:restriction base="xs:int">
                                                 <xs:minInclusive value="100" />
@@ -86,7 +87,7 @@
                                     <xs:attribute name="name" use="required" type="xs:string" />
                                     <xs:attribute name="city" use="required" type="xs:string" />
                                     <xs:attribute name="capacity" use="required">
-                                        <!-- custom-constraint: venue capacity range -->
+                                        <!-- Vlastni omezeni: rozsah kapacity venue -->
                                         <xs:simpleType>
                                             <xs:restriction base="xs:int">
                                                 <xs:minInclusive value="100" />
@@ -131,7 +132,7 @@
                                     <xs:attribute name="day" use="required" type="dateType" />
                                     <xs:attribute name="startTime" use="required" type="timeType" />
                                     <xs:attribute name="durationMin" use="required">
-                                        <!-- custom-constraint: event duration range in minutes -->
+                                        <!-- Vlastni omezeni: rozsah delky eventu v minutach -->
                                         <xs:simpleType>
                                             <xs:restriction base="xs:int">
                                                 <xs:minInclusive value="15" />

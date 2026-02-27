@@ -1,7 +1,7 @@
-﻿{
-    "id":  "v1",
-    "name":  "Aurora Main Stage",
-    "city":  "Praha",
-    "address":  "VÃ½staviÅ¡tÄ› 67, Praha 7",
-    "capacity":  7000
+{
+  "id": "v1",
+  "name": "Aurora Main Stage",
+  "city": "Praha",
+  "address": "Výstaviště 67, Praha 7",
+  "capacity": 7000
 }
