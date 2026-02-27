@@ -2,423 +2,423 @@
     "items":  [
                   {
                       "id":  "p1",
-                      "name":  "Interpret 1",
+                      "name":  "Lunar Tides",
                       "country":  "CZ",
                       "genre":  "Indie",
-                      "bio":  "Interpret 1 privazi energicky set pro vecerni program."
+                      "bio":  "Lunar Tides patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p2",
-                      "name":  "Interpret 2",
-                      "country":  "CZ",
+                      "name":  "Neon Harbor",
+                      "country":  "SK",
                       "genre":  "Elektronika",
-                      "bio":  "Interpret 2 privazi energicky set pro vecerni program."
+                      "bio":  "Neon Harbor patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p3",
-                      "name":  "Interpret 3",
-                      "country":  "CZ",
+                      "name":  "The Velvet Signals",
+                      "country":  "PL",
                       "genre":  "Rock",
-                      "bio":  "Interpret 3 privazi energicky set pro vecerni program."
+                      "bio":  "The Velvet Signals patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p4",
-                      "name":  "Interpret 4",
-                      "country":  "CZ",
+                      "name":  "Echo Meridian",
+                      "country":  "DE",
                       "genre":  "Jazz",
-                      "bio":  "Interpret 4 privazi energicky set pro vecerni program."
+                      "bio":  "Echo Meridian patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p5",
-                      "name":  "Interpret 5",
-                      "country":  "CZ",
+                      "name":  "Solar Drift",
+                      "country":  "AT",
                       "genre":  "Hip-Hop",
-                      "bio":  "Interpret 5 privazi energicky set pro vecerni program."
+                      "bio":  "Solar Drift patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p6",
-                      "name":  "Interpret 6",
-                      "country":  "CZ",
+                      "name":  "Midnight Cartel",
+                      "country":  "HU",
                       "genre":  "World",
-                      "bio":  "Interpret 6 privazi energicky set pro vecerni program."
+                      "bio":  "Midnight Cartel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p7",
-                      "name":  "Interpret 7",
-                      "country":  "CZ",
+                      "name":  "Aurora Bloom",
+                      "country":  "FR",
                       "genre":  "Indie",
-                      "bio":  "Interpret 7 privazi energicky set pro vecerni program."
+                      "bio":  "Aurora Bloom patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p8",
-                      "name":  "Interpret 8",
-                      "country":  "CZ",
+                      "name":  "Static Avenue",
+                      "country":  "SE",
                       "genre":  "Elektronika",
-                      "bio":  "Interpret 8 privazi energicky set pro vecerni program."
+                      "bio":  "Static Avenue patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p9",
-                      "name":  "Interpret 9",
-                      "country":  "CZ",
+                      "name":  "Riverline Collective",
+                      "country":  "NO",
                       "genre":  "Rock",
-                      "bio":  "Interpret 9 privazi energicky set pro vecerni program."
+                      "bio":  "Riverline Collective patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p10",
-                      "name":  "Interpret 10",
-                      "country":  "CZ",
+                      "name":  "Atlas Bloom",
+                      "country":  "NL",
                       "genre":  "Jazz",
-                      "bio":  "Interpret 10 privazi energicky set pro vecerni program."
+                      "bio":  "Atlas Bloom patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p11",
-                      "name":  "Interpret 11",
-                      "country":  "CZ",
+                      "name":  "Velvet Circuit",
+                      "country":  "IT",
                       "genre":  "Hip-Hop",
-                      "bio":  "Interpret 11 privazi energicky set pro vecerni program."
+                      "bio":  "Velvet Circuit patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p12",
-                      "name":  "Interpret 12",
-                      "country":  "CZ",
+                      "name":  "Nova Parade",
+                      "country":  "ES",
                       "genre":  "World",
-                      "bio":  "Interpret 12 privazi energicky set pro vecerni program."
+                      "bio":  "Nova Parade patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p13",
-                      "name":  "Interpret 13",
-                      "country":  "CZ",
+                      "name":  "Paper Lanterns",
+                      "country":  "GB",
                       "genre":  "Indie",
-                      "bio":  "Interpret 13 privazi energicky set pro vecerni program."
+                      "bio":  "Paper Lanterns patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p14",
-                      "name":  "Interpret 14",
-                      "country":  "CZ",
+                      "name":  "Northbound Echo",
+                      "country":  "US",
                       "genre":  "Elektronika",
-                      "bio":  "Interpret 14 privazi energicky set pro vecerni program."
+                      "bio":  "Northbound Echo patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p15",
-                      "name":  "Interpret 15",
-                      "country":  "CZ",
+                      "name":  "Crystal District",
+                      "country":  "CA",
                       "genre":  "Rock",
-                      "bio":  "Interpret 15 privazi energicky set pro vecerni program."
+                      "bio":  "Crystal District patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p16",
-                      "name":  "Interpret 16",
-                      "country":  "CZ",
+                      "name":  "Urban Comets",
+                      "country":  "DK",
                       "genre":  "Jazz",
-                      "bio":  "Interpret 16 privazi energicky set pro vecerni program."
+                      "bio":  "Urban Comets patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p17",
-                      "name":  "Interpret 17",
+                      "name":  "Polar Gardens",
                       "country":  "CZ",
                       "genre":  "Hip-Hop",
-                      "bio":  "Interpret 17 privazi energicky set pro vecerni program."
+                      "bio":  "Polar Gardens patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p18",
-                      "name":  "Interpret 18",
-                      "country":  "CZ",
+                      "name":  "Skyline Ritual",
+                      "country":  "SK",
                       "genre":  "World",
-                      "bio":  "Interpret 18 privazi energicky set pro vecerni program."
+                      "bio":  "Skyline Ritual patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p19",
-                      "name":  "Interpret 19",
-                      "country":  "CZ",
+                      "name":  "Motel Magnolia",
+                      "country":  "PL",
                       "genre":  "Indie",
-                      "bio":  "Interpret 19 privazi energicky set pro vecerni program."
+                      "bio":  "Motel Magnolia patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p20",
-                      "name":  "Interpret 20",
-                      "country":  "CZ",
+                      "name":  "Brass Horizon",
+                      "country":  "DE",
                       "genre":  "Elektronika",
-                      "bio":  "Interpret 20 privazi energicky set pro vecerni program."
+                      "bio":  "Brass Horizon patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p21",
-                      "name":  "Interpret 21",
-                      "country":  "CZ",
+                      "name":  "Dusty Satellites",
+                      "country":  "AT",
                       "genre":  "Rock",
-                      "bio":  "Interpret 21 privazi energicky set pro vecerni program."
+                      "bio":  "Dusty Satellites patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p22",
-                      "name":  "Interpret 22",
-                      "country":  "CZ",
+                      "name":  "Ivory Transit",
+                      "country":  "HU",
                       "genre":  "Jazz",
-                      "bio":  "Interpret 22 privazi energicky set pro vecerni program."
+                      "bio":  "Ivory Transit patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p23",
-                      "name":  "Interpret 23",
-                      "country":  "CZ",
+                      "name":  "Stereo Orchard",
+                      "country":  "FR",
                       "genre":  "Hip-Hop",
-                      "bio":  "Interpret 23 privazi energicky set pro vecerni program."
+                      "bio":  "Stereo Orchard patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p24",
-                      "name":  "Interpret 24",
-                      "country":  "CZ",
+                      "name":  "Dune Society",
+                      "country":  "SE",
                       "genre":  "World",
-                      "bio":  "Interpret 24 privazi energicky set pro vecerni program."
+                      "bio":  "Dune Society patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p25",
-                      "name":  "Interpret 25",
-                      "country":  "CZ",
+                      "name":  "Baltic Frequency",
+                      "country":  "NO",
                       "genre":  "Indie",
-                      "bio":  "Interpret 25 privazi energicky set pro vecerni program."
+                      "bio":  "Baltic Frequency patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p26",
-                      "name":  "Interpret 26",
-                      "country":  "CZ",
+                      "name":  "Canyon Motel",
+                      "country":  "NL",
                       "genre":  "Elektronika",
-                      "bio":  "Interpret 26 privazi energicky set pro vecerni program."
+                      "bio":  "Canyon Motel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p27",
-                      "name":  "Interpret 27",
-                      "country":  "CZ",
+                      "name":  "Silent Arcade",
+                      "country":  "IT",
                       "genre":  "Rock",
-                      "bio":  "Interpret 27 privazi energicky set pro vecerni program."
+                      "bio":  "Silent Arcade patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p28",
-                      "name":  "Interpret 28",
-                      "country":  "CZ",
+                      "name":  "Mosaic Avenue",
+                      "country":  "ES",
                       "genre":  "Jazz",
-                      "bio":  "Interpret 28 privazi energicky set pro vecerni program."
+                      "bio":  "Mosaic Avenue patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p29",
-                      "name":  "Interpret 29",
-                      "country":  "CZ",
+                      "name":  "Amber Transit",
+                      "country":  "GB",
                       "genre":  "Hip-Hop",
-                      "bio":  "Interpret 29 privazi energicky set pro vecerni program."
+                      "bio":  "Amber Transit patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p30",
-                      "name":  "Interpret 30",
-                      "country":  "CZ",
+                      "name":  "City of Pines",
+                      "country":  "US",
                       "genre":  "World",
-                      "bio":  "Interpret 30 privazi energicky set pro vecerni program."
+                      "bio":  "City of Pines patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p31",
-                      "name":  "Interpret 31",
-                      "country":  "CZ",
+                      "name":  "Westend Choir",
+                      "country":  "CA",
                       "genre":  "Indie",
-                      "bio":  "Interpret 31 privazi energicky set pro vecerni program."
+                      "bio":  "Westend Choir patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p32",
-                      "name":  "Interpret 32",
-                      "country":  "CZ",
+                      "name":  "Broken Compass",
+                      "country":  "DK",
                       "genre":  "Elektronika",
-                      "bio":  "Interpret 32 privazi energicky set pro vecerni program."
+                      "bio":  "Broken Compass patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p33",
-                      "name":  "Interpret 33",
+                      "name":  "Ocean Motel",
                       "country":  "CZ",
                       "genre":  "Rock",
-                      "bio":  "Interpret 33 privazi energicky set pro vecerni program."
+                      "bio":  "Ocean Motel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p34",
-                      "name":  "Interpret 34",
-                      "country":  "CZ",
+                      "name":  "Lowlight Theory",
+                      "country":  "SK",
                       "genre":  "Jazz",
-                      "bio":  "Interpret 34 privazi energicky set pro vecerni program."
+                      "bio":  "Lowlight Theory patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p35",
-                      "name":  "Interpret 35",
-                      "country":  "CZ",
+                      "name":  "Honey Current",
+                      "country":  "PL",
                       "genre":  "Hip-Hop",
-                      "bio":  "Interpret 35 privazi energicky set pro vecerni program."
+                      "bio":  "Honey Current patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p36",
-                      "name":  "Interpret 36",
-                      "country":  "CZ",
+                      "name":  "Velvet Monsoon",
+                      "country":  "DE",
                       "genre":  "World",
-                      "bio":  "Interpret 36 privazi energicky set pro vecerni program."
+                      "bio":  "Velvet Monsoon patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p37",
-                      "name":  "Interpret 37",
-                      "country":  "CZ",
+                      "name":  "Morning Static",
+                      "country":  "AT",
                       "genre":  "Indie",
-                      "bio":  "Interpret 37 privazi energicky set pro vecerni program."
+                      "bio":  "Morning Static patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p38",
-                      "name":  "Interpret 38",
-                      "country":  "CZ",
+                      "name":  "Asphalt Bloom",
+                      "country":  "HU",
                       "genre":  "Elektronika",
-                      "bio":  "Interpret 38 privazi energicky set pro vecerni program."
+                      "bio":  "Asphalt Bloom patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p39",
-                      "name":  "Interpret 39",
-                      "country":  "CZ",
+                      "name":  "Golden Vacancy",
+                      "country":  "FR",
                       "genre":  "Rock",
-                      "bio":  "Interpret 39 privazi energicky set pro vecerni program."
+                      "bio":  "Golden Vacancy patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p40",
-                      "name":  "Interpret 40",
-                      "country":  "CZ",
+                      "name":  "Nightshift Flora",
+                      "country":  "SE",
                       "genre":  "Jazz",
-                      "bio":  "Interpret 40 privazi energicky set pro vecerni program."
+                      "bio":  "Nightshift Flora patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p41",
-                      "name":  "Interpret 41",
-                      "country":  "CZ",
+                      "name":  "Rain Motel",
+                      "country":  "NO",
                       "genre":  "Hip-Hop",
-                      "bio":  "Interpret 41 privazi energicky set pro vecerni program."
+                      "bio":  "Rain Motel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p42",
-                      "name":  "Interpret 42",
-                      "country":  "CZ",
+                      "name":  "Parallel Kids",
+                      "country":  "NL",
                       "genre":  "World",
-                      "bio":  "Interpret 42 privazi energicky set pro vecerni program."
+                      "bio":  "Parallel Kids patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p43",
-                      "name":  "Interpret 43",
-                      "country":  "CZ",
+                      "name":  "Ribbon Atlas",
+                      "country":  "IT",
                       "genre":  "Indie",
-                      "bio":  "Interpret 43 privazi energicky set pro vecerni program."
+                      "bio":  "Ribbon Atlas patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p44",
-                      "name":  "Interpret 44",
-                      "country":  "CZ",
+                      "name":  "Neon Caravan",
+                      "country":  "ES",
                       "genre":  "Elektronika",
-                      "bio":  "Interpret 44 privazi energicky set pro vecerni program."
+                      "bio":  "Neon Caravan patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p45",
-                      "name":  "Interpret 45",
-                      "country":  "CZ",
+                      "name":  "Silver District",
+                      "country":  "GB",
                       "genre":  "Rock",
-                      "bio":  "Interpret 45 privazi energicky set pro vecerni program."
+                      "bio":  "Silver District patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p46",
-                      "name":  "Interpret 46",
-                      "country":  "CZ",
+                      "name":  "Northern Lantern",
+                      "country":  "US",
                       "genre":  "Jazz",
-                      "bio":  "Interpret 46 privazi energicky set pro vecerni program."
+                      "bio":  "Northern Lantern patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p47",
-                      "name":  "Interpret 47",
-                      "country":  "CZ",
+                      "name":  "Harbor Choir",
+                      "country":  "CA",
                       "genre":  "Hip-Hop",
-                      "bio":  "Interpret 47 privazi energicky set pro vecerni program."
+                      "bio":  "Harbor Choir patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p48",
-                      "name":  "Interpret 48",
-                      "country":  "CZ",
+                      "name":  "Skyline Mosaic",
+                      "country":  "DK",
                       "genre":  "World",
-                      "bio":  "Interpret 48 privazi energicky set pro vecerni program."
+                      "bio":  "Skyline Mosaic patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p49",
-                      "name":  "Interpret 49",
+                      "name":  "Sunroom Cartel",
                       "country":  "CZ",
                       "genre":  "Indie",
-                      "bio":  "Interpret 49 privazi energicky set pro vecerni program."
+                      "bio":  "Sunroom Cartel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p50",
-                      "name":  "Interpret 50",
-                      "country":  "CZ",
+                      "name":  "Harborline Echo",
+                      "country":  "SK",
                       "genre":  "Elektronika",
-                      "bio":  "Interpret 50 privazi energicky set pro vecerni program."
+                      "bio":  "Harborline Echo patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p51",
-                      "name":  "Interpret 51",
-                      "country":  "CZ",
+                      "name":  "Lunar District",
+                      "country":  "PL",
                       "genre":  "Rock",
-                      "bio":  "Interpret 51 privazi energicky set pro vecerni program."
+                      "bio":  "Lunar District patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p52",
-                      "name":  "Interpret 52",
-                      "country":  "CZ",
+                      "name":  "Echo Harbor",
+                      "country":  "DE",
                       "genre":  "Jazz",
-                      "bio":  "Interpret 52 privazi energicky set pro vecerni program."
+                      "bio":  "Echo Harbor patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p53",
-                      "name":  "Interpret 53",
-                      "country":  "CZ",
+                      "name":  "Magnet Fields",
+                      "country":  "AT",
                       "genre":  "Hip-Hop",
-                      "bio":  "Interpret 53 privazi energicky set pro vecerni program."
+                      "bio":  "Magnet Fields patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p54",
-                      "name":  "Interpret 54",
-                      "country":  "CZ",
+                      "name":  "Pine Motel",
+                      "country":  "HU",
                       "genre":  "World",
-                      "bio":  "Interpret 54 privazi energicky set pro vecerni program."
+                      "bio":  "Pine Motel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p55",
-                      "name":  "Interpret 55",
-                      "country":  "CZ",
+                      "name":  "Atlas Avenue",
+                      "country":  "FR",
                       "genre":  "Indie",
-                      "bio":  "Interpret 55 privazi energicky set pro vecerni program."
+                      "bio":  "Atlas Avenue patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p56",
-                      "name":  "Interpret 56",
-                      "country":  "CZ",
+                      "name":  "River Motel",
+                      "country":  "SE",
                       "genre":  "Elektronika",
-                      "bio":  "Interpret 56 privazi energicky set pro vecerni program."
+                      "bio":  "River Motel patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p57",
-                      "name":  "Interpret 57",
-                      "country":  "CZ",
+                      "name":  "Metro Aurora",
+                      "country":  "NO",
                       "genre":  "Rock",
-                      "bio":  "Interpret 57 privazi energicky set pro vecerni program."
+                      "bio":  "Metro Aurora patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p58",
-                      "name":  "Interpret 58",
-                      "country":  "CZ",
+                      "name":  "Velvet Atlantic",
+                      "country":  "NL",
                       "genre":  "Jazz",
-                      "bio":  "Interpret 58 privazi energicky set pro vecerni program."
+                      "bio":  "Velvet Atlantic patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p59",
-                      "name":  "Interpret 59",
-                      "country":  "CZ",
+                      "name":  "Coastal Transit",
+                      "country":  "IT",
                       "genre":  "Hip-Hop",
-                      "bio":  "Interpret 59 privazi energicky set pro vecerni program."
+                      "bio":  "Coastal Transit patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   },
                   {
                       "id":  "p60",
-                      "name":  "Interpret 60",
-                      "country":  "CZ",
+                      "name":  "Prairie Signals",
+                      "country":  "ES",
                       "genre":  "World",
-                      "bio":  "Interpret 60 privazi energicky set pro vecerni program."
+                      "bio":  "Prairie Signals patÅ™Ã­ mezi vÃ½raznÃ¡ jmÃ©na souÄasnÃ© klubovÃ© a koncertnÃ­ scÃ©ny."
                   }
               ],
     "page":  1,

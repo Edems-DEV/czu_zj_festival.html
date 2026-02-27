@@ -2,663 +2,663 @@
     "items":  [
                   {
                       "id":  "e1",
-                      "title":  "Set Interpret 1",
+                      "title":  "Lunar Tides Live",
                       "performerId":  "p1",
                       "venueId":  "v1",
                       "day":  "2026-08-20",
                       "startTime":  "10:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 1."
+                      "description":  "KoncertnÃ­ set interpreta Lunar Tides s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e2",
-                      "title":  "Set Interpret 2",
+                      "title":  "Neon Harbor Live",
                       "performerId":  "p2",
                       "venueId":  "v2",
                       "day":  "2026-08-20",
                       "startTime":  "11:30",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 2."
+                      "description":  "KoncertnÃ­ set interpreta Neon Harbor s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e3",
-                      "title":  "Set Interpret 3",
+                      "title":  "The Velvet Signals Live",
                       "performerId":  "p3",
-                      "venueId":  "v1",
+                      "venueId":  "v3",
                       "day":  "2026-08-20",
                       "startTime":  "12:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 3."
+                      "description":  "KoncertnÃ­ set interpreta The Velvet Signals s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e4",
-                      "title":  "Set Interpret 4",
+                      "title":  "Talk: Cesta zvuku - Echo Meridian",
                       "performerId":  "p4",
-                      "venueId":  "v2",
+                      "venueId":  "v1",
                       "day":  "2026-08-20",
                       "startTime":  "13:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 4."
+                      "durationMin":  45,
+                      "type":  "talk",
+                      "description":  "Echo Meridian sdÃ­lÃ­ zkuÅ¡enosti z turnÃ©, produkce a prÃ¡ce se zvukem."
                   },
                   {
                       "id":  "e5",
-                      "title":  "Set Interpret 5",
+                      "title":  "Solar Drift Live",
                       "performerId":  "p5",
-                      "venueId":  "v1",
+                      "venueId":  "v2",
                       "day":  "2026-08-20",
                       "startTime":  "14:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 5."
+                      "description":  "KoncertnÃ­ set interpreta Solar Drift s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e6",
-                      "title":  "Set Interpret 6",
+                      "title":  "Workshop: Produkce s Midnight Cartel",
                       "performerId":  "p6",
-                      "venueId":  "v2",
+                      "venueId":  "v3",
                       "day":  "2026-08-20",
                       "startTime":  "15:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 6."
+                      "durationMin":  90,
+                      "type":  "workshop",
+                      "description":  "PraktickÃ½ workshop vedenÃ½ interpretem Midnight Cartel zamÄ›Å™enÃ½ na tvorbu tracku."
                   },
                   {
                       "id":  "e7",
-                      "title":  "Set Interpret 7",
+                      "title":  "Aurora Bloom Live",
                       "performerId":  "p7",
                       "venueId":  "v1",
                       "day":  "2026-08-20",
                       "startTime":  "16:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 7."
+                      "description":  "KoncertnÃ­ set interpreta Aurora Bloom s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e8",
-                      "title":  "Set Interpret 8",
+                      "title":  "Talk: Cesta zvuku - Static Avenue",
                       "performerId":  "p8",
                       "venueId":  "v2",
                       "day":  "2026-08-20",
                       "startTime":  "17:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 8."
+                      "durationMin":  45,
+                      "type":  "talk",
+                      "description":  "Static Avenue sdÃ­lÃ­ zkuÅ¡enosti z turnÃ©, produkce a prÃ¡ce se zvukem."
                   },
                   {
                       "id":  "e9",
-                      "title":  "Set Interpret 9",
+                      "title":  "Riverline Collective Live",
                       "performerId":  "p9",
-                      "venueId":  "v1",
+                      "venueId":  "v3",
                       "day":  "2026-08-20",
                       "startTime":  "18:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 9."
+                      "description":  "KoncertnÃ­ set interpreta Riverline Collective s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e10",
-                      "title":  "Set Interpret 10",
+                      "title":  "Atlas Bloom Live",
                       "performerId":  "p10",
-                      "venueId":  "v2",
+                      "venueId":  "v1",
                       "day":  "2026-08-20",
                       "startTime":  "19:30",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 10."
+                      "description":  "KoncertnÃ­ set interpreta Atlas Bloom s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e11",
-                      "title":  "Set Interpret 11",
+                      "title":  "Velvet Circuit Live",
                       "performerId":  "p11",
-                      "venueId":  "v1",
+                      "venueId":  "v2",
                       "day":  "2026-08-20",
                       "startTime":  "10:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 11."
+                      "description":  "KoncertnÃ­ set interpreta Velvet Circuit s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e12",
-                      "title":  "Set Interpret 12",
+                      "title":  "Workshop: Produkce s Nova Parade",
                       "performerId":  "p12",
-                      "venueId":  "v2",
+                      "venueId":  "v3",
                       "day":  "2026-08-20",
                       "startTime":  "11:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 12."
+                      "durationMin":  90,
+                      "type":  "workshop",
+                      "description":  "PraktickÃ½ workshop vedenÃ½ interpretem Nova Parade zamÄ›Å™enÃ½ na tvorbu tracku."
                   },
                   {
                       "id":  "e13",
-                      "title":  "Set Interpret 13",
+                      "title":  "Paper Lanterns Live",
                       "performerId":  "p13",
                       "venueId":  "v1",
                       "day":  "2026-08-20",
                       "startTime":  "12:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 13."
+                      "description":  "KoncertnÃ­ set interpreta Paper Lanterns s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e14",
-                      "title":  "Set Interpret 14",
+                      "title":  "Northbound Echo Live",
                       "performerId":  "p14",
                       "venueId":  "v2",
                       "day":  "2026-08-20",
                       "startTime":  "13:30",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 14."
+                      "description":  "KoncertnÃ­ set interpreta Northbound Echo s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e15",
-                      "title":  "Set Interpret 15",
+                      "title":  "Crystal District Live",
                       "performerId":  "p15",
-                      "venueId":  "v1",
+                      "venueId":  "v3",
                       "day":  "2026-08-20",
                       "startTime":  "14:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 15."
+                      "description":  "KoncertnÃ­ set interpreta Crystal District s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e16",
-                      "title":  "Set Interpret 16",
+                      "title":  "Talk: Cesta zvuku - Urban Comets",
                       "performerId":  "p16",
-                      "venueId":  "v2",
+                      "venueId":  "v1",
                       "day":  "2026-08-20",
                       "startTime":  "15:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 16."
+                      "durationMin":  45,
+                      "type":  "talk",
+                      "description":  "Urban Comets sdÃ­lÃ­ zkuÅ¡enosti z turnÃ©, produkce a prÃ¡ce se zvukem."
                   },
                   {
                       "id":  "e17",
-                      "title":  "Set Interpret 17",
+                      "title":  "Polar Gardens Live",
                       "performerId":  "p17",
-                      "venueId":  "v1",
+                      "venueId":  "v2",
                       "day":  "2026-08-20",
                       "startTime":  "16:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 17."
+                      "description":  "KoncertnÃ­ set interpreta Polar Gardens s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e18",
-                      "title":  "Set Interpret 18",
+                      "title":  "Workshop: Produkce s Skyline Ritual",
                       "performerId":  "p18",
-                      "venueId":  "v2",
+                      "venueId":  "v3",
                       "day":  "2026-08-20",
                       "startTime":  "17:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 18."
+                      "durationMin":  90,
+                      "type":  "workshop",
+                      "description":  "PraktickÃ½ workshop vedenÃ½ interpretem Skyline Ritual zamÄ›Å™enÃ½ na tvorbu tracku."
                   },
                   {
                       "id":  "e19",
-                      "title":  "Set Interpret 19",
+                      "title":  "Motel Magnolia Live",
                       "performerId":  "p19",
                       "venueId":  "v1",
                       "day":  "2026-08-20",
                       "startTime":  "18:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 19."
+                      "description":  "KoncertnÃ­ set interpreta Motel Magnolia s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e20",
-                      "title":  "Set Interpret 20",
+                      "title":  "Talk: Cesta zvuku - Brass Horizon",
                       "performerId":  "p20",
                       "venueId":  "v2",
                       "day":  "2026-08-20",
                       "startTime":  "19:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 20."
+                      "durationMin":  45,
+                      "type":  "talk",
+                      "description":  "Brass Horizon sdÃ­lÃ­ zkuÅ¡enosti z turnÃ©, produkce a prÃ¡ce se zvukem."
                   },
                   {
                       "id":  "e21",
-                      "title":  "Set Interpret 21",
+                      "title":  "Dusty Satellites Live",
                       "performerId":  "p21",
-                      "venueId":  "v1",
+                      "venueId":  "v3",
                       "day":  "2026-08-21",
                       "startTime":  "10:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 21."
+                      "description":  "KoncertnÃ­ set interpreta Dusty Satellites s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e22",
-                      "title":  "Set Interpret 22",
+                      "title":  "Ivory Transit Live",
                       "performerId":  "p22",
-                      "venueId":  "v2",
+                      "venueId":  "v1",
                       "day":  "2026-08-21",
                       "startTime":  "11:30",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 22."
+                      "description":  "KoncertnÃ­ set interpreta Ivory Transit s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e23",
-                      "title":  "Set Interpret 23",
+                      "title":  "Stereo Orchard Live",
                       "performerId":  "p23",
-                      "venueId":  "v1",
+                      "venueId":  "v2",
                       "day":  "2026-08-21",
                       "startTime":  "12:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 23."
+                      "description":  "KoncertnÃ­ set interpreta Stereo Orchard s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e24",
-                      "title":  "Set Interpret 24",
+                      "title":  "Workshop: Produkce s Dune Society",
                       "performerId":  "p24",
-                      "venueId":  "v2",
+                      "venueId":  "v3",
                       "day":  "2026-08-21",
                       "startTime":  "13:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 24."
+                      "durationMin":  90,
+                      "type":  "workshop",
+                      "description":  "PraktickÃ½ workshop vedenÃ½ interpretem Dune Society zamÄ›Å™enÃ½ na tvorbu tracku."
                   },
                   {
                       "id":  "e25",
-                      "title":  "Set Interpret 25",
+                      "title":  "Baltic Frequency Live",
                       "performerId":  "p25",
                       "venueId":  "v1",
                       "day":  "2026-08-21",
                       "startTime":  "14:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 25."
+                      "description":  "KoncertnÃ­ set interpreta Baltic Frequency s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e26",
-                      "title":  "Set Interpret 26",
+                      "title":  "Canyon Motel Live",
                       "performerId":  "p26",
                       "venueId":  "v2",
                       "day":  "2026-08-21",
                       "startTime":  "15:30",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 26."
+                      "description":  "KoncertnÃ­ set interpreta Canyon Motel s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e27",
-                      "title":  "Set Interpret 27",
+                      "title":  "Silent Arcade Live",
                       "performerId":  "p27",
-                      "venueId":  "v1",
+                      "venueId":  "v3",
                       "day":  "2026-08-21",
                       "startTime":  "16:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 27."
+                      "description":  "KoncertnÃ­ set interpreta Silent Arcade s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e28",
-                      "title":  "Set Interpret 28",
+                      "title":  "Talk: Cesta zvuku - Mosaic Avenue",
                       "performerId":  "p28",
-                      "venueId":  "v2",
+                      "venueId":  "v1",
                       "day":  "2026-08-21",
                       "startTime":  "17:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 28."
+                      "durationMin":  45,
+                      "type":  "talk",
+                      "description":  "Mosaic Avenue sdÃ­lÃ­ zkuÅ¡enosti z turnÃ©, produkce a prÃ¡ce se zvukem."
                   },
                   {
                       "id":  "e29",
-                      "title":  "Set Interpret 29",
+                      "title":  "Amber Transit Live",
                       "performerId":  "p29",
-                      "venueId":  "v1",
+                      "venueId":  "v2",
                       "day":  "2026-08-21",
                       "startTime":  "18:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 29."
+                      "description":  "KoncertnÃ­ set interpreta Amber Transit s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e30",
-                      "title":  "Set Interpret 30",
+                      "title":  "Workshop: Produkce s City of Pines",
                       "performerId":  "p30",
-                      "venueId":  "v2",
+                      "venueId":  "v3",
                       "day":  "2026-08-21",
                       "startTime":  "19:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 30."
+                      "durationMin":  90,
+                      "type":  "workshop",
+                      "description":  "PraktickÃ½ workshop vedenÃ½ interpretem City of Pines zamÄ›Å™enÃ½ na tvorbu tracku."
                   },
                   {
                       "id":  "e31",
-                      "title":  "Set Interpret 31",
+                      "title":  "Westend Choir Live",
                       "performerId":  "p31",
                       "venueId":  "v1",
                       "day":  "2026-08-21",
                       "startTime":  "10:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 31."
+                      "description":  "KoncertnÃ­ set interpreta Westend Choir s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e32",
-                      "title":  "Set Interpret 32",
+                      "title":  "Talk: Cesta zvuku - Broken Compass",
                       "performerId":  "p32",
                       "venueId":  "v2",
                       "day":  "2026-08-21",
                       "startTime":  "11:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 32."
+                      "durationMin":  45,
+                      "type":  "talk",
+                      "description":  "Broken Compass sdÃ­lÃ­ zkuÅ¡enosti z turnÃ©, produkce a prÃ¡ce se zvukem."
                   },
                   {
                       "id":  "e33",
-                      "title":  "Set Interpret 33",
+                      "title":  "Ocean Motel Live",
                       "performerId":  "p33",
-                      "venueId":  "v1",
+                      "venueId":  "v3",
                       "day":  "2026-08-21",
                       "startTime":  "12:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 33."
+                      "description":  "KoncertnÃ­ set interpreta Ocean Motel s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e34",
-                      "title":  "Set Interpret 34",
+                      "title":  "Lowlight Theory Live",
                       "performerId":  "p34",
-                      "venueId":  "v2",
+                      "venueId":  "v1",
                       "day":  "2026-08-21",
                       "startTime":  "13:30",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 34."
+                      "description":  "KoncertnÃ­ set interpreta Lowlight Theory s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e35",
-                      "title":  "Set Interpret 35",
+                      "title":  "Honey Current Live",
                       "performerId":  "p35",
-                      "venueId":  "v1",
+                      "venueId":  "v2",
                       "day":  "2026-08-21",
                       "startTime":  "14:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 35."
+                      "description":  "KoncertnÃ­ set interpreta Honey Current s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e36",
-                      "title":  "Set Interpret 36",
+                      "title":  "Workshop: Produkce s Velvet Monsoon",
                       "performerId":  "p36",
-                      "venueId":  "v2",
+                      "venueId":  "v3",
                       "day":  "2026-08-21",
                       "startTime":  "15:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 36."
+                      "durationMin":  90,
+                      "type":  "workshop",
+                      "description":  "PraktickÃ½ workshop vedenÃ½ interpretem Velvet Monsoon zamÄ›Å™enÃ½ na tvorbu tracku."
                   },
                   {
                       "id":  "e37",
-                      "title":  "Set Interpret 37",
+                      "title":  "Morning Static Live",
                       "performerId":  "p37",
                       "venueId":  "v1",
                       "day":  "2026-08-21",
                       "startTime":  "16:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 37."
+                      "description":  "KoncertnÃ­ set interpreta Morning Static s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e38",
-                      "title":  "Set Interpret 38",
+                      "title":  "Asphalt Bloom Live",
                       "performerId":  "p38",
                       "venueId":  "v2",
                       "day":  "2026-08-21",
                       "startTime":  "17:30",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 38."
+                      "description":  "KoncertnÃ­ set interpreta Asphalt Bloom s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e39",
-                      "title":  "Set Interpret 39",
+                      "title":  "Golden Vacancy Live",
                       "performerId":  "p39",
-                      "venueId":  "v1",
+                      "venueId":  "v3",
                       "day":  "2026-08-21",
                       "startTime":  "18:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 39."
+                      "description":  "KoncertnÃ­ set interpreta Golden Vacancy s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e40",
-                      "title":  "Set Interpret 40",
+                      "title":  "Talk: Cesta zvuku - Nightshift Flora",
                       "performerId":  "p40",
-                      "venueId":  "v2",
+                      "venueId":  "v1",
                       "day":  "2026-08-21",
                       "startTime":  "19:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 40."
+                      "durationMin":  45,
+                      "type":  "talk",
+                      "description":  "Nightshift Flora sdÃ­lÃ­ zkuÅ¡enosti z turnÃ©, produkce a prÃ¡ce se zvukem."
                   },
                   {
                       "id":  "e41",
-                      "title":  "Set Interpret 41",
+                      "title":  "Rain Motel Live",
                       "performerId":  "p41",
-                      "venueId":  "v1",
+                      "venueId":  "v2",
                       "day":  "2026-08-22",
                       "startTime":  "10:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 41."
+                      "description":  "KoncertnÃ­ set interpreta Rain Motel s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e42",
-                      "title":  "Set Interpret 42",
+                      "title":  "Workshop: Produkce s Parallel Kids",
                       "performerId":  "p42",
-                      "venueId":  "v2",
+                      "venueId":  "v3",
                       "day":  "2026-08-22",
                       "startTime":  "11:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 42."
+                      "durationMin":  90,
+                      "type":  "workshop",
+                      "description":  "PraktickÃ½ workshop vedenÃ½ interpretem Parallel Kids zamÄ›Å™enÃ½ na tvorbu tracku."
                   },
                   {
                       "id":  "e43",
-                      "title":  "Set Interpret 43",
+                      "title":  "Ribbon Atlas Live",
                       "performerId":  "p43",
                       "venueId":  "v1",
                       "day":  "2026-08-22",
                       "startTime":  "12:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 43."
+                      "description":  "KoncertnÃ­ set interpreta Ribbon Atlas s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e44",
-                      "title":  "Set Interpret 44",
+                      "title":  "Talk: Cesta zvuku - Neon Caravan",
                       "performerId":  "p44",
                       "venueId":  "v2",
                       "day":  "2026-08-22",
                       "startTime":  "13:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 44."
+                      "durationMin":  45,
+                      "type":  "talk",
+                      "description":  "Neon Caravan sdÃ­lÃ­ zkuÅ¡enosti z turnÃ©, produkce a prÃ¡ce se zvukem."
                   },
                   {
                       "id":  "e45",
-                      "title":  "Set Interpret 45",
+                      "title":  "Silver District Live",
                       "performerId":  "p45",
-                      "venueId":  "v1",
+                      "venueId":  "v3",
                       "day":  "2026-08-22",
                       "startTime":  "14:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 45."
+                      "description":  "KoncertnÃ­ set interpreta Silver District s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e46",
-                      "title":  "Set Interpret 46",
+                      "title":  "Northern Lantern Live",
                       "performerId":  "p46",
-                      "venueId":  "v2",
+                      "venueId":  "v1",
                       "day":  "2026-08-22",
                       "startTime":  "15:30",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 46."
+                      "description":  "KoncertnÃ­ set interpreta Northern Lantern s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e47",
-                      "title":  "Set Interpret 47",
+                      "title":  "Harbor Choir Live",
                       "performerId":  "p47",
-                      "venueId":  "v1",
+                      "venueId":  "v2",
                       "day":  "2026-08-22",
                       "startTime":  "16:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 47."
+                      "description":  "KoncertnÃ­ set interpreta Harbor Choir s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e48",
-                      "title":  "Set Interpret 48",
+                      "title":  "Workshop: Produkce s Skyline Mosaic",
                       "performerId":  "p48",
-                      "venueId":  "v2",
+                      "venueId":  "v3",
                       "day":  "2026-08-22",
                       "startTime":  "17:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 48."
+                      "durationMin":  90,
+                      "type":  "workshop",
+                      "description":  "PraktickÃ½ workshop vedenÃ½ interpretem Skyline Mosaic zamÄ›Å™enÃ½ na tvorbu tracku."
                   },
                   {
                       "id":  "e49",
-                      "title":  "Set Interpret 49",
+                      "title":  "Sunroom Cartel Live",
                       "performerId":  "p49",
                       "venueId":  "v1",
                       "day":  "2026-08-22",
                       "startTime":  "18:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 49."
+                      "description":  "KoncertnÃ­ set interpreta Sunroom Cartel s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e50",
-                      "title":  "Set Interpret 50",
+                      "title":  "Harborline Echo Live",
                       "performerId":  "p50",
                       "venueId":  "v2",
                       "day":  "2026-08-22",
                       "startTime":  "19:30",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 50."
+                      "description":  "KoncertnÃ­ set interpreta Harborline Echo s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e51",
-                      "title":  "Set Interpret 51",
+                      "title":  "Lunar District Live",
                       "performerId":  "p51",
-                      "venueId":  "v1",
+                      "venueId":  "v3",
                       "day":  "2026-08-22",
                       "startTime":  "10:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 51."
+                      "description":  "KoncertnÃ­ set interpreta Lunar District s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e52",
-                      "title":  "Set Interpret 52",
+                      "title":  "Talk: Cesta zvuku - Echo Harbor",
                       "performerId":  "p52",
-                      "venueId":  "v2",
+                      "venueId":  "v1",
                       "day":  "2026-08-22",
                       "startTime":  "11:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 52."
+                      "durationMin":  45,
+                      "type":  "talk",
+                      "description":  "Echo Harbor sdÃ­lÃ­ zkuÅ¡enosti z turnÃ©, produkce a prÃ¡ce se zvukem."
                   },
                   {
                       "id":  "e53",
-                      "title":  "Set Interpret 53",
+                      "title":  "Magnet Fields Live",
                       "performerId":  "p53",
-                      "venueId":  "v1",
+                      "venueId":  "v2",
                       "day":  "2026-08-22",
                       "startTime":  "12:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 53."
+                      "description":  "KoncertnÃ­ set interpreta Magnet Fields s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e54",
-                      "title":  "Set Interpret 54",
+                      "title":  "Workshop: Produkce s Pine Motel",
                       "performerId":  "p54",
-                      "venueId":  "v2",
+                      "venueId":  "v3",
                       "day":  "2026-08-22",
                       "startTime":  "13:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 54."
+                      "durationMin":  90,
+                      "type":  "workshop",
+                      "description":  "PraktickÃ½ workshop vedenÃ½ interpretem Pine Motel zamÄ›Å™enÃ½ na tvorbu tracku."
                   },
                   {
                       "id":  "e55",
-                      "title":  "Set Interpret 55",
+                      "title":  "Atlas Avenue Live",
                       "performerId":  "p55",
                       "venueId":  "v1",
                       "day":  "2026-08-22",
                       "startTime":  "14:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 55."
+                      "description":  "KoncertnÃ­ set interpreta Atlas Avenue s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e56",
-                      "title":  "Set Interpret 56",
+                      "title":  "Talk: Cesta zvuku - River Motel",
                       "performerId":  "p56",
                       "venueId":  "v2",
                       "day":  "2026-08-22",
                       "startTime":  "15:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 56."
+                      "durationMin":  45,
+                      "type":  "talk",
+                      "description":  "River Motel sdÃ­lÃ­ zkuÅ¡enosti z turnÃ©, produkce a prÃ¡ce se zvukem."
                   },
                   {
                       "id":  "e57",
-                      "title":  "Set Interpret 57",
+                      "title":  "Metro Aurora Live",
                       "performerId":  "p57",
-                      "venueId":  "v1",
+                      "venueId":  "v3",
                       "day":  "2026-08-22",
                       "startTime":  "16:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 57."
+                      "description":  "KoncertnÃ­ set interpreta Metro Aurora s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e58",
-                      "title":  "Set Interpret 58",
+                      "title":  "Velvet Atlantic Live",
                       "performerId":  "p58",
-                      "venueId":  "v2",
+                      "venueId":  "v1",
                       "day":  "2026-08-22",
                       "startTime":  "17:30",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 58."
+                      "description":  "KoncertnÃ­ set interpreta Velvet Atlantic s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e59",
-                      "title":  "Set Interpret 59",
+                      "title":  "Coastal Transit Live",
                       "performerId":  "p59",
-                      "venueId":  "v1",
+                      "venueId":  "v2",
                       "day":  "2026-08-22",
                       "startTime":  "18:00",
-                      "durationMin":  60,
+                      "durationMin":  75,
                       "type":  "concert",
-                      "description":  "Zivy koncert interpreta 59."
+                      "description":  "KoncertnÃ­ set interpreta Coastal Transit s prÅ¯Å™ezem aktuÃ¡lnÃ­ tvorbou."
                   },
                   {
                       "id":  "e60",
-                      "title":  "Set Interpret 60",
+                      "title":  "Workshop: Produkce s Prairie Signals",
                       "performerId":  "p60",
-                      "venueId":  "v2",
+                      "venueId":  "v3",
                       "day":  "2026-08-22",
                       "startTime":  "19:30",
-                      "durationMin":  60,
-                      "type":  "concert",
-                      "description":  "Zivy koncert interpreta 60."
+                      "durationMin":  90,
+                      "type":  "workshop",
+                      "description":  "PraktickÃ½ workshop vedenÃ½ interpretem Prairie Signals zamÄ›Å™enÃ½ na tvorbu tracku."
                   }
               ],
     "page":  1,

@@ -2,20 +2,27 @@
     "items":  [
                   {
                       "id":  "v1",
-                      "name":  "Hlavni stage",
+                      "name":  "Aurora Main Stage",
                       "city":  "Praha",
-                      "address":  "Vystaviste 1, Praha 7",
-                      "capacity":  5000
+                      "address":  "VÃ½staviÅ¡tÄ› 67, Praha 7",
+                      "capacity":  7000
                   },
                   {
                       "id":  "v2",
-                      "name":  "Klubova stage",
+                      "name":  "Riverside Club Stage",
                       "city":  "Praha",
-                      "address":  "Vystaviste 2, Praha 7",
-                      "capacity":  1800
+                      "address":  "BubenskÃ© nÃ¡bÅ™eÅ¾Ã­ 306, Praha 7",
+                      "capacity":  2200
+                  },
+                  {
+                      "id":  "v3",
+                      "name":  "Forum Hall",
+                      "city":  "Praha",
+                      "address":  "VÃ½staviÅ¡tÄ› 170, Praha 7",
+                      "capacity":  1300
                   }
               ],
     "page":  1,
-    "pageSize":  2,
-    "totalItems":  2
+    "pageSize":  3,
+    "totalItems":  3
 }
