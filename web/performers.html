@@ -4,14 +4,14 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Hudební Festival Aurora 2026 | Účinkující</title>
-    <meta name="description" content="Seznam účinkujících festivalu Aurora." />
+    <meta name="description" content="Seznam všech interpretů a hostů festivalu Aurora." />
     <meta
       property="og:title"
       content="Účinkující | Hudební Festival Aurora 2026"
     />
     <meta
       property="og:description"
-      content="Přehled interpretů a odkaz na jejich detail."
+      content="Přehled interpretů z celého světa, kteří vystoupí na festivalu Aurora."
     />
     <meta property="og:image" content="https://picsum.photos/1200/632" />
     <link rel="stylesheet" href="style.css" />
@@ -23,7 +23,7 @@
         <ul>
           <li><a href="index.html">Úvod</a></li>
           <li><a href="program.html">Program</a></li>
-          <li><a href="performers.html">Účinkující</a></li>
+          <li><a href="performers.html" aria-current="page">Účinkující</a></li>
           <li><a href="practical-info.html">Praktické informace</a></li>
         </ul>
       </nav>
@@ -31,42 +31,62 @@
 
     <main>
       <section>
-        <h2>Seznam interpretů</h2>
-        <ul id="performers-list">
+        <h2>Hlavní line-up</h2>
+        <ul id="performers-list" class="card-grid">
           <li>
-            <a href="performer-detail.html">Interpret 1</a> – electronic (CZ)
+            <a href="performer-detail.html">Lunar Tides</a><br>
+            <small>Indie | CZ</small>
           </li>
           <li>
-            <a href="performer-detail.html">Interpret 2</a> – indie pop (SK)
+            <a href="performer-detail.html">Neon Harbor</a><br>
+            <small>Elektronika | SK</small>
           </li>
-          <li><a href="performer-detail.html">Interpret 3</a> – techno (DE)</li>
           <li>
-            <a href="performer-detail.html">Interpret 4</a> – ambient (PL)
+            <a href="performer-detail.html">The Velvet Signals</a><br>
+            <small>Rock | PL</small>
           </li>
-          <li><a href="performer-detail.html">Interpret 5</a> – house (FR)</li>
           <li>
-            <a href="performer-detail.html">Interpret 6</a> – live band (CZ)
+            <a href="performer-detail.html">Echo Meridian</a><br>
+            <small>Jazz | DE</small>
+          </li>
+          <li>
+            <a href="performer-detail.html">Solar Drift</a><br>
+            <small>Hip-Hop | AT</small>
+          </li>
+          <li>
+            <a href="performer-detail.html">Midnight Cartel</a><br>
+            <small>World | HU</small>
+          </li>
+          <li>
+            <a href="performer-detail.html">Aurora Bloom</a><br>
+            <small>Indie | FR</small>
+          </li>
+          <li>
+            <a href="performer-detail.html">Static Avenue</a><br>
+            <small>Elektronika | SE</small>
+          </li>
+          <li>
+            <a href="performer-detail.html">Riverline Collective</a><br>
+            <small>Rock | NO</small>
+          </li>
+          <li>
+            <a href="performer-detail.html">Atlas Bloom</a><br>
+            <small>Jazz | NL</small>
+          </li>
+          <li>
+            <a href="performer-detail.html">Velvet Circuit</a><br>
+            <small>Hip-Hop | IT</small>
+          </li>
+          <li>
+            <a href="performer-detail.html">Nova Parade</a><br>
+            <small>World | ES</small>
           </li>
         </ul>
-        <p>
-          Kompletní seznam je dostupný přes
-          <a href="../API/json/performers.json">/api/performers</a>.
-        </p>
-      </section>
-
-      <section>
-        <h2>Detail endpoint</h2>
-        <article>
-          <h3>Ukázka detailu interpreta</h3>
-          <p>
-            Např.
-            <a href="../API/json/performer-p1.json">/api/performers/{id}</a>.
-          </p>
-        </article>
       </section>
 
       <aside>
-        <p>Festival obsahuje minimálně 60 účinkujících.</p>
+        <p>Na festivalu Aurora vystoupí celkem <strong>60 účinkujících</strong> z více než 15 zemí.</p>
+        <p>Prozkoumejte detaily jednotlivých interpretů kliknutím na jejich jméno.</p>
       </aside>
     </main>
 
