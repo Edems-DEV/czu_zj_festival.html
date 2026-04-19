@@ -6,7 +6,7 @@
     <title>Hudební Festival Aurora 2026 | Praktické informace</title>
     <meta
       name="description"
-      content="Praktické informace k dopravě, parkování a ubytování pro festival Aurora."
+      content="Doprava, ubytování, mapy a praktické informace pro návštěvníky festivalu Aurora."
     />
     <meta
       property="og:title"
@@ -14,7 +14,7 @@
     />
     <meta
       property="og:description"
-      content="Doprava, parkování, ubytování a kontakty."
+      content="Doprava, parkování, ubytování a přehled scén."
     />
     <meta property="og:image" content="https://picsum.photos/1200/634" />
     <link rel="stylesheet" href="style.css" />
@@ -27,52 +27,61 @@
           <li><a href="index.html">Úvod</a></li>
           <li><a href="program.html">Program</a></li>
           <li><a href="performers.html">Účinkující</a></li>
-          <li><a href="practical-info.html">Praktické informace</a></li>
+          <li><a href="practical-info.html" aria-current="page">Praktické informace</a></li>
         </ul>
       </nav>
     </header>
 
     <main>
       <section>
-        <h2>Místo konání</h2>
-        <ul id="venue-list">
+        <h2>Místa konání (Scény)</h2>
+        <ul id="venue-list" class="card-grid">
           <li>
-            <strong>Hlavní stage</strong> – Výstaviště 1, Praha 7 (kapacita
-            8000)
+            <strong>Aurora Main Stage</strong><br>
+            <address>Výstaviště 67, Praha 7</address>
+            <small>Kapacita: 7000</small>
           </li>
           <li>
-            <strong>Klub stage</strong> – Křižíkův pavilon B, Praha 7 (kapacita
-            2500)
+            <strong>Riverside Club Stage</strong><br>
+            <address>Bubenské nábřeží 306, Praha 7</address>
+            <small>Kapacita: 2200</small>
+          </li>
+          <li>
+            <strong>Forum Hall</strong><br>
+            <address>Výstaviště 170, Praha 7</address>
+            <small>Kapacita: 1300</small>
           </li>
         </ul>
       </section>
 
-      <section>
-        <h2>Doprava a parkování</h2>
-        <article>
-          <h3>MHD</h3>
-          <p>Doporučený příjezd tramvají na zastávku Výstaviště.</p>
-        </article>
-        <article>
-          <h3>Parkování</h3>
-          <p>
-            Kapacita parkoviště je omezená. Doporučujeme předprodej parkovacích
-            míst.
-          </p>
-        </article>
-      </section>
+      <div class="grid">
+        <section>
+          <h2>Doprava a parkování</h2>
+          <article>
+            <h3>MHD</h3>
+            <p>Nejlépe se k nám dostanete tramvají linky 6, 12 nebo 17 na zastávku <strong>Výstaviště</strong>. Areál je v docházkové vzdálenosti.</p>
+          </article>
+          <article>
+            <h3>Parkování</h3>
+            <p>
+              V blízkosti areálu jsou omezené kapacity parkování. Doporučujeme využít záchytná parkoviště P+R nebo předplatit parkovací kartu.
+            </p>
+          </article>
+        </section>
 
-      <section>
-        <h2>Ubytování</h2>
-        <ul>
-          <li>Hostel Arena (15 min pěšky)</li>
-          <li>Hotel City Park (10 min MHD)</li>
-          <li>Apartmány Letná (20 min MHD)</li>
-        </ul>
-      </section>
+        <section>
+          <h2>Ubytování</h2>
+          <p>Doporučené hotely a hostely v okolí Letné:</p>
+          <ul id="accommodation-list">
+            <li>Hostel Arena (5 min chůze)</li>
+            <li>Hotel City Park (10 min tram)</li>
+            <li>Apartmány Bubeneč (15 min tram)</li>
+          </ul>
+        </section>
+      </div>
 
       <aside>
-        <p>Nouzový kontakt pořadatele: +420 777 000 111</p>
+        <p>Potřebujete pomoc? Nouzový kontakt pořadatele: <strong>+420 777 000 111</strong></p>
       </aside>
     </main>
 

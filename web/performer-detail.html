@@ -6,7 +6,7 @@
     <title>Hudební Festival Aurora 2026 | Detail účinkujícího</title>
     <meta
       name="description"
-      content="Detail vybraného účinkujícího festivalu Aurora."
+      content="Profil a programová položka interpreta na festivalu Aurora."
     />
     <meta
       property="og:title"
@@ -14,10 +14,31 @@
     />
     <meta
       property="og:description"
-      content="Profil interpreta a jeho programová položka."
+      content="Zjistěte více o svém oblíbeném interpretovi a kdy vystupuje."
     />
     <meta property="og:image" content="https://picsum.photos/1200/633" />
     <link rel="stylesheet" href="style.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "MusicGroup",
+        "name": "Lunar Tides",
+        "genre": "Indie",
+        "homeLocation": {
+          "@type": "Place",
+          "name": "Czech Republic"
+        },
+        "event": {
+          "@type": "MusicEvent",
+          "name": "Lunar Tides at Aurora 2026",
+          "startDate": "2026-08-20T10:00",
+          "location": {
+            "@type": "Place",
+            "name": "Aurora Main Stage"
+          }
+        }
+      }
+    </script>
   </head>
   <body>
     <header>
@@ -26,7 +47,7 @@
         <ul>
           <li><a href="index.html">Úvod</a></li>
           <li><a href="program.html">Program</a></li>
-          <li><a href="performers.html">Účinkující</a></li>
+          <li><a href="performers.html" aria-current="page">Účinkující</a></li>
           <li><a href="practical-info.html">Praktické informace</a></li>
         </ul>
       </nav>
@@ -34,36 +55,27 @@
 
     <main>
       <section>
-        <h2 id="performer-name">Interpret 1</h2>
-        <article>
-          <h3>Základní profil</h3>
-          <p id="performer-profile">Žánr: electronic | Země: CZ</p>
-        </article>
-        <article>
-          <h3>Nejbližší vystoupení</h3>
-          <p id="performer-next-event">
-            <time datetime="2026-08-20T10:00">20. 8. 2026 v 10:00</time> na
-            Hlavní stage.
-          </p>
-        </article>
-      </section>
-
-      <section>
-        <h2>Program interpreta</h2>
-        <ul id="performer-events">
-          <li>
-            <time datetime="2026-08-20T10:00">20. 8. 2026 10:00</time> – Set
-            Interpret 1 (Hlavní stage)
-          </li>
-          <li>
-            <time datetime="2026-08-21T18:30">21. 8. 2026 18:30</time> – Evening
-            Live (Klub stage)
-          </li>
-        </ul>
+        <h2 id="performer-name">Lunar Tides</h2>
+        <div class="grid">
+          <article>
+            <h3>Základní profil</h3>
+            <p id="performer-profile"><strong>Žánr:</strong> Indie | <strong>Země:</strong> CZ</p>
+            <p id="performer-bio">Lunar Tides patří mezi výrazná jména současné klubové a koncertní scény.</p>
+          </article>
+          <article>
+            <h3>Vystoupení na festivalu</h3>
+            <p id="performer-next-event">
+              <strong>Hlavní set:</strong><br>
+              <time datetime="2026-08-20T10:00">20. 8. 2026 v 10:00</time><br>
+              Scéna: <strong>Aurora Main Stage</strong>
+            </p>
+          </article>
+        </div>
       </section>
 
       <aside>
-        <p>Návrat na <a href="performers.html">seznam účinkujících</a>.</p>
+        <p>Zajímá vás zbytek programu? <a href="program.html">Prohlédněte si celý harmonogram</a>.</p>
+        <p>Návrat na <a href="performers.html">seznam všech účinkujících</a>.</p>
       </aside>
     </main>
 
