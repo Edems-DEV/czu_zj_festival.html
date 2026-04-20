@@ -22,7 +22,8 @@ header {
   box-shadow: 0 0 20px rgba(176,38,255,0.3);
 }
 header h1 {
-  font-size: 3.5rem; font-weight: 900; text-transform: uppercase; letter-spacing: 2px;
+  font-size: 3.5rem;
+   font-weight: 900; text-transform: uppercase; letter-spacing: 2px;
   background: linear-gradient(45deg, var(--neon-cyan), var(--neon-pink));
   -webkit-background-clip: text; -webkit-text-fill-color: transparent;
   animation: glow 2s ease-in-out infinite alternate;
